@@ -7,3 +7,5 @@ This is whatsapp code:
 3. Last seen code
 
 4. Attachments(images,video,audio)code
+
+5.Hide last seen
