@@ -9,3 +9,7 @@ This is whatsapp code:
 4. Attachments(images,video,audio)code
 
 5.Hide last seen
+
+6.Add video call feature
+
+7.Add Audio call feature
